@@ -1,3 +1,5 @@
 json
 {
-  "_base"" 
+  "_base" https://raw.githubusercontent.com/wonkywonky/samples/refs/heads/main/",
+  "bd1": "bd/AP2_Kick_Almost_Sub.wav"
+}
