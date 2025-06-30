@@ -240,6 +240,41 @@
   "sd70": "sd/plx_rtdm_snare_mid_lite.wav",
   "sd71": "sd/shs_ins_snare_one_shot_Cell.wav",
   "sd72": "sd/shs_ins_snare_one_shot_Fuss.wav",
-  "sd73": "sd/shs_ins_snare_one_shot_Panuru.wav"
+  "sd73": "sd/shs_ins_snare_one_shot_Panuru.wav",
+
+
+
+  "plk1": "plk/91V_2H_synth_tone_crush_pluck_C.wav",
+  "plk2": "plk/AU_KP24_synth_pluck_one_shot_you_tried_D#.wav",
+  "plk3": "plk/BOS_SHCC_Synth_Pluck_One_Shot_Fusion_D.wav",
+  "plk4": "plk/BOS_TT_Synth_Pluck_One_Shot_Cannon_A#.wav",
+  "plk5": "plk/CAPSHUN_synth_one_shot_wash_out_sin_C.wav",
+  "plk6": "plk/DBC_synth_pluck_drones_D#.wav",
+  "plk7": "plk/DETROIT_black_noise_bass_one_shot_F.wav",
+  "plk8": "plk/DIASPORA_perreo_one_shot_reggaeton_synth_pluck_hifi_Amin.wav",
+  "plk9": "plk/DS_VBP_synth_pluck_gem_A.wav",
+  "plk10": "plk/DS_VBP_synth_pluck_pegu_D.wav",
+  "plk11": "plk/DS_VBP_synth_pluck_rebolando_D.wav",
+  "plk12": "plk/DS_VPH2_synth_one_shot_home_sine_low_C.wav",
+  "plk13": "plk/ElysiumHarp_B_2_Xylo_v3_24_r11_a.wav",
+  "plk14": "plk/FL_FH_Plucks.wav",
+  "plk15": "plk/FNF_WW_harp_angelic_single_note_mid_G.wav",
+  "plk16": "plk/FNF_WW_harp_single_note_mid_A.wav",
+  "plk17": "plk/LLTXS_fx_one_shot_pulse.wav",
+  "plk18": "plk/MAMII_guitar_solid_note_wet_A.wav",
+  "plk19": "plk/MNT_DD_harp_single_note_ghee_dry_high_G.wav",
+  "plk20": "plk/NW_NL2_synth_linen_B.wav",
+  "plk21": "plk/PJ_ATP_Synth_one_shot_Noise_Pluck_Note_C.wav",
+  "plk22": "plk/PLX_ELX_synth_vision_G#.wav",
+  "plk23": "plk/PM_GB_Synth_One_Shot_Pluck_Saw_C.wav",
+  "plk24": "plk/REACH_JUPE_tonal_one_shot_reverb__pluck_wet_C.wav",
+  "plk25": "plk/SC_CH_harp_harmonic_wet_C#4.wav",
+  "plk26": "plk/STCR2_VH22_Synth_OneShot_C_Sunset.wav",
+  "plk27": "plk/TNYSN_tonal_one_shot_aphex_01_C#.wav",
+  "plk28": "plk/ZEN_APM_synth_one_shot_simple_C.wav",
+  "plk29": "plk/ept_one-shots_pluck_03_C.wav",
+  "plk30": "plk/ept_one-shots_pluck_05_C.wav",
+  "plk31": "plk/ff_at_synth_Ebmin.wav"
+
 
 }
