@@ -1,7 +1,7 @@
 {
   "_base": "https://raw.githubusercontent.com/wonkywonky/samples/main/",
 
-# bass drum (kicks)
+
   
   "bd1": "bd/AP2_Kick_Almost_Sub.wav",
   "bd2": "bd/BOS_DDE_Kick_One_Shot_Layered_Socko.wav",
@@ -30,7 +30,7 @@
   "bd25": "bd/jc_ris_kick_reverse.wav",
   "bd26": "bd/ny_kick_goodguy.wav"
 
- # bass synth
+
   
   "bs1": "bs/003_Synth_Hit_A_-_CONNECTPROGHOUSE_Zenhiser.wav",
   "bs2": "bs/004_Bass_Hit_E_-_ODYSSEY_Zenhiser.wav",
@@ -116,7 +116,7 @@
   "bs82": "bs/rh_bs_terence_A.wav",
   "bs83": "bs/sm_rr_bass_dx_solid_C3.wav"
 
-<! comment >
+
   
   "hh1": "hh/016_Hi_Hat_-_NEWJUNGLE_Zenhiser.wav",
   "hh2": "hh/027_Hi_Hat_-_MIRRORSTECHNO_Zenhiser.wav",
@@ -165,5 +165,81 @@
   "hh45": "hh/ZEN_MFY_closed_hi_hat_one_shot_tight.wav",
   "hh46": "hh/dbh_hat_scrape.wav",
   "hh47": "hh/nw_PP_hihat_one_shot_50sZildjianDark_Soft.wav"
+
+
+  
+  "sd1": "sd/015_Snare_-_NEWJUNGLE_Zenhiser.wav",
+  "sd2": "sd/020_Snare_-_OXYGEN_Zenhiser.wav",
+  "sd3": "sd/2sg_snare_roller.wav",
+  "sd4": "sd/AR_VBR_snare_coco.wav",
+  "sd5": "sd/AR_VBR_snare_horse.wav",
+  "sd6": "sd/AR_VBR_snare_temper.wav",
+  "sd7": "sd/BATHS_snare_one_shot_erode_02.wav",
+  "sd8": "sd/BOS_DLL_Drum_Snare_One_Shot_Clappy.wav",
+  "sd9": "sd/BS_ABRI_drum_snare_one_shot_HighThwack.wav",
+  "sd10": "sd/BS_REAT_snare_one_shot_stalk.wav",
+  "sd11": "sd/BS_REAT_snare_one_shot_unison.wav",
+  "sd12": "sd/CEEBEAATS_snare_aaaliyah.wav",
+  "sd13": "sd/DD_RAA_drums_one_shot_soul_kick_snare_on_6.wav",
+  "sd14": "sd/DD_alabama_snare_one_shot_acrolite_side_stick_soft.wav",
+  "sd15": "sd/DEZ_WRIGHT_snare_timeless.wav",
+  "sd16": "sd/DSC_FVR_snare_one_shot_sizzle_no_claps.wav",
+  "sd17": "sd/DS_MDS_snare_one_shot_tsunami.wav",
+  "sd18": "sd/FF_RW_kigali_city_fx_shaker_double_vocal.wav",
+  "sd19": "sd/FL_NDF_KIT03_110_F_Snare.wav",
+  "sd20": "sd/FNF_AD_drums_snare_weird_dry.wav",
+  "sd21": "sd/FO4_FSOT_snare_mid_mystery.wav",
+  "sd22": "sd/FTH_Snare_22.wav",
+  "sd23": "sd/Handclap_13.wav",
+  "sd24": "sd/JUBILEE_snare_blue.wav",
+  "sd25": "sd/JU_J_Snare_clack.wav",
+  "sd26": "sd/JU_J_Snare_dancey.wav",
+  "sd27": "sd/KMRBI_UKG_snare_one_shot_slap.wav",
+  "sd28": "sd/KTK_Snare_Dead_02.wav",
+  "sd29": "sd/MADKEYS_snare_snap.wav",
+  "sd30": "sd/MARS_VINYLDRUMS_Snare_Clean_Hard.wav",
+  "sd31": "sd/NH_LVV_snare_tape_dry_tight.wav",
+  "sd32": "sd/OSS_MW_snare_one_shot_sweet_rim.wav",
+  "sd33": "sd/OS_DTD_snare_tino.wav",
+  "sd34": "sd/OS_MRS_snare_rim.wav",
+  "sd35": "sd/OS_MRS_snare_snappy.wav",
+  "sd36": "sd/OS_SS_snare_long_verb.wav",
+  "sd37": "sd/OS_TRNT_Perc_Tiny_Snare.wav",
+  "sd38": "sd/PL_BF_Snare_One_Shot_Downtown.wav",
+  "sd39": "sd/RKU_AJ_Snare_One_Shot_Passion.wav",
+  "sd40": "sd/RKU_BLC_snare_one_shot_explosive_wet.wav",
+  "sd41": "sd/RKU_HES_Snare_Venus.wav",
+  "sd42": "sd/RKU_SRL2_one_shot_snare_shift.wav",
+  "sd43": "sd/RU_PMGP_SNARE_TAKOMA.wav",
+  "sd44": "sd/SAK_NOEL_snare_guaracha_classic.wav",
+  "sd45": "sd/SFP_Snares___Claps_16.wav",
+  "sd46": "sd/SLS_CSP_snare_acoustic_anotha_one.wav",
+  "sd47": "sd/SM43_vth_cst_snr_live_vibes.wav",
+  "sd48": "sd/SM43_vth_vnl_snr_mch_objective.wav",
+  "sd49": "sd/SM_BSS_snare_sauce.wav",
+  "sd50": "sd/SO_AA_snare_soul_stick.wav",
+  "sd51": "sd/SO_LU_rim_byron.wav",
+  "sd52": "sd/SS_AK_snare_clay.wav",
+  "sd53": "sd/Snare_09.wav",
+  "sd54": "sd/TAIKO_snare_vacia.wav",
+  "sd55": "sd/TRKTRN_FXLKVII_Snare_One_Shot_Vr.wav",
+  "sd56": "sd/TRKTRN_LXLVMK_Snare_Avala.wav",
+  "sd57": "sd/TRKTRN_LXLVMK_Snare_Scope.wav",
+  "sd58": "sd/TSP_IHD_snare_tight_micro.wav",
+  "sd59": "sd/TSP_KOAN_snare_ghost_brush_lower.wav",
+  "sd60": "sd/TSP_MOM_snare_high_amazing.wav",
+  "sd61": "sd/TSP_NOISIA_snare_laagje.wav",
+  "sd62": "sd/TS_ADD_snare_crisp.wav",
+  "sd63": "sd/ZEN_MFY_snare_one_shot_closure.wav",
+  "sd64": "sd/ZEN_OPT_snare_auburn.wav",
+  "sd65": "sd/cj_snare_one_shot_live_bomf.wav",
+  "sd66": "sd/cj_snare_one_shot_live_dote.wav",
+  "sd67": "sd/cj_snare_one_shot_live_spur.wav",
+  "sd68": "sd/nn_snare_flash.wav",
+  "sd69": "sd/nw_rcs02_drums_clap_one_shot_layer_me.wav",
+  "sd70": "sd/plx_rtdm_snare_mid_lite.wav",
+  "sd71": "sd/shs_ins_snare_one_shot_Cell.wav",
+  "sd72": "sd/shs_ins_snare_one_shot_Fuss.wav",
+  "sd73": "sd/shs_ins_snare_one_shot_Panuru.wav"
 
 }
